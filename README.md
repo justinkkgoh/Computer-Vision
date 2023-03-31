@@ -1,5 +1,6 @@
 # Computer-Vision
-Assignments for my Computer Vision course Winter 2023
+Programming assignments for my Computer Vision course. 
+Python and OpenCV
 
 Topics include: <br>
 
