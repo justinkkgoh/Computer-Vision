@@ -1,5 +1,5 @@
 # Computer-Vision
-Programming assignments for my Computer Vision course. 
+Programming assignments for my Computer Vision course. Each homework is accompanied by a Jupyter Notebook and report
 Python and OpenCV
 
 Topics include: <br>
